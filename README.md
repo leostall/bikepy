@@ -1,4 +1,4 @@
-# Gourmetize - Credit Management System
+# BikePy - Credit Management System
 
 ## 📘 Description
 This project is an system that manages the purchase and usage of credits. Users can buy credits, register entries and exits, and print usage reports.
